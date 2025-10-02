@@ -63,6 +63,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Boots",
+                    "Dr. Dog",
+                    "https://cdn2.thecatapi.com/images/vXiNSY60T.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Missy",
+                    "Energetic and always ready for a game of fetch.",
+                    "https://cdn2.thecatapi.com/images/NZ_C9Edot.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Leo",
+                    "A playful and curious cat who loves to explore.",
+                    "https://cdn2.thecatapi.com/images/imz2EwFWv.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Graceful and elegant, she moves like a dancer.",
+                    "https://cdn2.thecatapi.com/images/s42I_BL-a.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Lucy",
+                    "Very vocal and loves to 'talk' to her humans.",
+                    "https://cdn2.thecatapi.com/images/wFQIf01uy.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "James",
+                    "A mischievous cat.",
+                    "https://cdn2.thecatapi.com/images/IFXsxmXLm.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Bella",
+                    "Has a very sweet and loving personality.",
+                    "https://cdn2.thecatapi.com/images/ftmw29QPb.jpg"
                 )
             )
         )
